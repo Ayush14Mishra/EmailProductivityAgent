@@ -1,4 +1,4 @@
-# Prompt-Driven Email Productivity Agent
+# MailPilot — AI Email Productivity Assistant
 
 A full-stack productivity assistant that streams your inbox data through user-defined prompts to automate categorization, action-item extraction, agent insights, and reply drafting.
 
